@@ -1,2 +1,3 @@
-# trafaret.xyz - one page Web Site created with Vanilla JS
-visit [here](https://trafaret.xyz)
+# trafaret.xyz
+My first one page Web Site created with Vanilla JS
+[visit](https://trafaret.xyz)
